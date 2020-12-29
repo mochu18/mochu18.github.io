@@ -28,16 +28,11 @@ author:
 socials:
   - title: Github
     icon: github-logo
-    url: https://github.com/biezhi
+    url: https://github.com/FForeverand
   - title: Twitter
     icon: twitter
-    url: https://twitter.com/biezhii
-  - title: Youtube
-    icon: youtube
-    url: https://www.youtube.com/channel/UCmlhPmTdqYhRWwWZWSIBwGw
-  - title: 知乎主页
-    icon: zhihu
-    url: https://www.zhihu.com/people/biezhi
+    url: https://twitter.com/FForeverand
+
 
 # 友链
 links:
@@ -65,6 +60,8 @@ links:
     url: https://blog.liantao.me/
   - title: Printf520
     url: https://printf520.com/
+  - title: biezhi
+    url: https://blog.biezhi.me/
 
 # html 压缩
 compress_html:
